@@ -4,7 +4,15 @@ $title= "Best IVF Center in Guntur|Vignata IVF Center";
 $metadescription = "Viganata IVF Center is one of the ✅top Fertility hospitals in Guntur. Our Best ✅IVF Center provides the ✅best fertility Treatments for both ✅men and ✅women to achieve good health.";
 include 'header.php';
 ?>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E3ZH917M7D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-E3ZH917M7D');
+</script>
     <!--Carousel Wrapper-->
     <div id="carousel-example-2" class="carousel slide carousel-fade z-depth-1-half hidden-xs" data-ride="carousel">
       <!--Indicators-->
